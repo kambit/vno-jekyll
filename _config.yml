@@ -24,6 +24,8 @@ blog_button:
 nav:
     - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
+    - {title: tags, description: 'tags', url: '/blog/tag'}
+    - {title: categories, description: 'categories', url: '/blog/categories'}
 
 # Pagination
 plugins: [jekyll-paginate]
