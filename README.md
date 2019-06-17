@@ -2,13 +2,21 @@
 
 [Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
-### **This is fork form onevcat's [vno-jekyll](https://github.com/onevcat/vno-jekyll)**
 
-### Thanks for author Onevcat
 
 # Update
 
 Add tags button and categories button next the blog button.
+
+
+
+### **This is fork form onevcat's [vno-jekyll](https://github.com/onevcat/vno-jekyll)**, and the tag html and category html are from codinfox.
+
+### Thanks for author Onevcat
+
+### Thanks for author [codinfox](<https://codinfox.github.io/>)
+
+
 
 ## Live Demo
 
