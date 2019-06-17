@@ -12,9 +12,9 @@ Add tags button and categories button next the blog button.
 
 ### **This is fork from onevcat's [vno-jekyll](https://github.com/onevcat/vno-jekyll)**, and the tag html and category html are from codinfox.
 
-### Thanks for author Onevcat
+### Thanks for author [Onevcat](https://onevcat.com/)
 
-### Thanks for author [codinfox](<https://codinfox.github.io/>)
+### Thanks for author [codinfox](https://codinfox.github.io/)
 
 
 
